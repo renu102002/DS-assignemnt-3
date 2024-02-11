@@ -1,6 +1,7 @@
 #include <iostream>
 
 // Node structure for the linked list
+//Element in a Linked List of Recursive
 struct Node {
     int data;
     Node* next;
